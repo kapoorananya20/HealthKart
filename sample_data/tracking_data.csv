@@ -1,0 +1,101 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+YouTube,Campaign_1,1,35783f66-2114-42d6-90ea-1324862f78e1,Biotin,2025-06-09,6,3189.38
+Instagram,Campaign_1,15,fbc59e92-ca12-49ad-9963-05b371b221e4,Biotin,2025-06-28,4,5530.76
+Instagram,Campaign_2,3,63b8a897-7df0-4e6b-8e8d-75f26d62e40c,Whey Protein,2025-06-12,7,9500.52
+Instagram,Campaign_3,14,f0a61c5e-7074-41d4-b239-d04bcbab5b51,Whey Protein,2025-06-10,4,241.48
+YouTube,Campaign_5,1,e7e3f52c-0cbf-404d-b5c2-5d429626d8c4,Omega-3,2025-06-28,2,1985.55
+Twitter,Campaign_2,20,15ac15c3-a217-4f25-bbe9-57670884fd16,Creatine,2025-06-09,5,6916.55
+Instagram,Campaign_1,6,a358cb1d-be3f-4afd-8e96-ed9b5d158e44,Biotin,2025-06-07,7,6313.63
+YouTube,Campaign_3,1,9ccd3e1f-4c2a-4daa-9c5c-11eb3baa17f9,Biotin,2025-05-30,2,8627.46
+Twitter,Campaign_5,5,c061c99b-831a-452a-9e6c-8762b475e15e,Creatine,2025-06-18,2,8731.45
+YouTube,Campaign_1,9,5a62ddc4-e209-4f49-a0a1-0d2bc57c7998,Whey Protein,2025-06-30,1,2136.78
+YouTube,Campaign_5,9,b261d0d2-a1c2-49bf-8dcf-035b7552c6e8,Creatine,2025-07-11,6,9390.54
+YouTube,Campaign_5,2,f46860a2-a604-45af-b4db-1c1eaa66b464,Biotin,2025-07-14,8,6437.4
+YouTube,Campaign_5,12,6e3c18c9-ef1f-40a3-bc02-ba67ee04bdde,Multivitamin,2025-07-17,4,3818.23
+Twitter,Campaign_1,10,b440ffe0-4137-40e2-bd7d-e1f57460d20d,Multivitamin,2025-07-07,3,2786.6
+YouTube,Campaign_3,11,0acfeba4-4410-40ae-9652-5ce03725bd0c,Whey Protein,2025-05-26,6,7816.23
+YouTube,Campaign_1,2,00fdec23-598c-43b4-a9b1-08230d742256,Creatine,2025-06-19,3,1579.22
+Instagram,Campaign_3,19,104dff66-23f1-467e-81d3-4690a795ac54,Creatine,2025-07-02,7,9894.1
+Twitter,Campaign_3,5,9bcfb1c4-f87e-4560-b8df-e76bae358290,Whey Protein,2025-06-29,8,7332.17
+YouTube,Campaign_3,2,7425f4e9-3891-4ef5-abe0-572c8ec9ea98,Multivitamin,2025-06-09,9,7313.74
+Twitter,Campaign_4,10,9b3a0c89-1a32-4148-9bba-c83856e9b78d,Creatine,2025-05-30,5,4205.74
+Instagram,Campaign_5,4,8930d179-52ab-493f-91ab-f5e5cb775e24,Biotin,2025-07-05,8,3437.1
+YouTube,Campaign_1,11,0761585b-4168-405a-933c-9a31e4bacd78,Biotin,2025-07-11,2,7025.99
+Instagram,Campaign_1,14,14827a89-5e63-44c6-b0ac-79dd0b5aafef,Creatine,2025-06-11,6,7374.03
+Twitter,Campaign_2,5,3012ae1c-5882-43bb-8646-96c1deb4e6c4,Omega-3,2025-06-10,7,8080.57
+Instagram,Campaign_1,3,bc5074ac-baa1-42ac-ac33-f6444053b188,Whey Protein,2025-06-20,4,7523.71
+YouTube,Campaign_4,2,6279d944-dc28-47c6-8453-98134fee7144,Whey Protein,2025-06-15,2,3998.7
+Instagram,Campaign_3,17,b6651d6e-df39-4caa-980c-79fc7b69e690,Biotin,2025-06-14,8,7904.06
+Twitter,Campaign_4,7,8d4e2753-ef26-45b7-8e49-df560b648acd,Whey Protein,2025-05-29,6,2279.36
+YouTube,Campaign_5,9,b97fb3bb-7ecc-440c-b5ff-93f0025b7c5f,Multivitamin,2025-07-03,7,2000.26
+Instagram,Campaign_1,4,6980b561-cf1a-4cc1-aaca-38110c26e5d9,Whey Protein,2025-07-08,9,4570.96
+Twitter,Campaign_1,7,15eae9d2-1e3d-49d0-b0aa-f52575e417dd,Biotin,2025-05-29,7,2639.15
+YouTube,Campaign_2,2,c3f3f74d-d386-4b58-9946-65d33dbba3af,Omega-3,2025-06-05,3,1135.83
+Instagram,Campaign_4,15,36a5be06-eb52-4e01-a25e-651269fcbef0,Creatine,2025-07-03,9,8287.17
+Instagram,Campaign_5,4,6d4ba69c-d169-43f2-93bf-a9fe9cdd9f6c,Biotin,2025-07-15,3,5682.65
+Instagram,Campaign_5,14,64fc0dba-d44f-45e7-a2f8-8051c13c6688,Biotin,2025-05-25,6,8351.98
+YouTube,Campaign_2,16,7d718591-3fee-4fc7-ae2d-ffdff57b8a92,Omega-3,2025-06-12,10,9320.0
+YouTube,Campaign_3,1,476c4878-deff-4d7a-9728-525620ca35ab,Creatine,2025-06-25,6,451.14
+Twitter,Campaign_3,5,1b770deb-6f51-4a78-bea2-a33a51d11bcd,Omega-3,2025-07-15,3,8439.1
+Instagram,Campaign_3,19,8a83efc8-9c2e-4562-8916-e844e64ddd91,Biotin,2025-06-10,2,8019.46
+Instagram,Campaign_1,17,7118bb71-c707-477b-8bf0-ae53b6088c97,Whey Protein,2025-07-10,4,1391.89
+Twitter,Campaign_1,10,a2652c9e-8942-4c6d-b64a-b5109acba588,Biotin,2025-06-16,6,8632.84
+Twitter,Campaign_4,5,1e651ac1-043d-4c47-bb56-735e45c596d4,Creatine,2025-07-20,9,3884.1
+Instagram,Campaign_5,17,2c2df3c2-1951-4f87-b63f-83c6c89309e9,Whey Protein,2025-07-01,10,997.4
+Instagram,Campaign_5,17,e139d15d-48d8-49ef-b7d3-16a43fafa217,Whey Protein,2025-05-22,7,9067.23
+Twitter,Campaign_3,7,6da313e7-83e9-473b-8918-1ba3bdee9231,Omega-3,2025-05-26,10,4236.62
+YouTube,Campaign_4,16,45c190a8-a52b-40ce-a27b-585f1f2de275,Omega-3,2025-06-02,10,2412.35
+YouTube,Campaign_1,1,5be12d09-908e-4372-bcbe-9a42f89d3fda,Multivitamin,2025-06-13,5,5117.89
+YouTube,Campaign_3,9,8bf06f64-b417-4592-b76f-c5b2acc512df,Whey Protein,2025-06-18,8,8612.85
+Twitter,Campaign_4,10,e6cd3595-d4f0-465d-bd68-17b638b80611,Biotin,2025-06-14,7,716.36
+Twitter,Campaign_2,5,acb5959f-4eb9-4768-84a5-b1c31095e497,Creatine,2025-06-22,6,649.72
+YouTube,Campaign_4,2,7af2f402-a0e6-44f1-9f89-d54d3bcd6aec,Biotin,2025-06-18,3,4969.13
+Twitter,Campaign_1,20,cf4bb315-2325-4d81-abdf-b7279501e917,Multivitamin,2025-05-23,6,4170.29
+Twitter,Campaign_4,20,5df2e073-53f0-4099-813d-d49a8d99743c,Biotin,2025-07-17,8,565.63
+YouTube,Campaign_2,16,213c121c-cfde-4303-8679-2b47a2834536,Whey Protein,2025-06-29,1,6023.17
+Twitter,Campaign_3,5,82ae752f-2d40-46bc-b9cb-2ee827be0381,Whey Protein,2025-05-29,9,6525.02
+Twitter,Campaign_4,7,c80cb483-34dd-4624-83d9-b3b022b56be1,Biotin,2025-07-09,2,8824.64
+Twitter,Campaign_4,20,f8247e70-b219-4ff3-846a-c0d691ca9f9e,Omega-3,2025-06-11,6,6539.67
+Twitter,Campaign_3,20,d0f0c75d-21d3-4e24-bb89-17463c3da911,Multivitamin,2025-06-13,7,8013.48
+Instagram,Campaign_5,4,9bc69882-5a7c-431a-a275-9469c28d2ad5,Multivitamin,2025-07-18,1,7842.93
+Instagram,Campaign_3,15,e69b7971-7f9b-46ef-a105-725621ee302e,Multivitamin,2025-06-01,8,3629.88
+Instagram,Campaign_1,3,86c47b06-06a8-422f-957c-af0d9db3466d,Whey Protein,2025-07-18,8,2628.32
+YouTube,Campaign_5,1,4f06ea18-74a2-4444-bd3c-279b5bce228b,Omega-3,2025-05-23,10,8771.19
+YouTube,Campaign_1,8,a71b80ef-8e36-482f-b856-be31f568c9c6,Omega-3,2025-06-06,9,4259.1
+Twitter,Campaign_1,10,cf2a2198-7ea4-46f5-a10b-4aada92d6b05,Multivitamin,2025-07-07,7,8929.24
+Instagram,Campaign_1,14,d9082a42-b448-4761-905e-9c9b8bc88bcf,Whey Protein,2025-05-29,7,722.94
+Instagram,Campaign_2,14,66dfeb1e-9ab3-4c27-a32f-8c5b425832c0,Whey Protein,2025-06-09,8,4367.75
+Instagram,Campaign_1,14,4aaeb212-c90d-4d29-9100-f186d25ab049,Biotin,2025-06-28,6,7253.17
+Instagram,Campaign_3,3,09cd3bdf-356a-4737-8f26-70d2f19b43da,Whey Protein,2025-06-21,2,3656.61
+YouTube,Campaign_3,1,3fe65f90-f631-481e-bf40-1e04b9f94ec6,Creatine,2025-06-24,3,198.65
+YouTube,Campaign_3,8,b9cde60c-ab1e-4794-b0f2-297adceb2013,Whey Protein,2025-06-12,10,8945.01
+Twitter,Campaign_1,7,298e9a79-abec-4c0b-981b-a30742965873,Multivitamin,2025-06-20,2,7504.97
+Twitter,Campaign_3,10,8a1d8b42-92d6-4f73-9b3a-4595045892c1,Whey Protein,2025-05-27,10,2405.34
+Twitter,Campaign_2,5,5a79b46a-26b6-4b06-a164-5f58bb78eb2d,Biotin,2025-05-24,2,4819.27
+YouTube,Campaign_2,9,0649def5-0fb2-4e1e-a0b9-76c27db931ce,Whey Protein,2025-06-14,4,3686.17
+YouTube,Campaign_3,16,f20e8bda-39cc-4d88-832f-594d0b82b61c,Creatine,2025-06-22,9,6395.57
+Instagram,Campaign_5,6,584d3c02-0ff9-4318-922a-3a6211091978,Whey Protein,2025-07-02,2,5378.96
+Twitter,Campaign_2,10,376e22a6-ec07-4cf1-a476-38ec22c71d04,Biotin,2025-07-04,3,9462.22
+YouTube,Campaign_3,8,4fdc1351-5ba8-40dc-a45d-b6ca6f6a2196,Omega-3,2025-06-08,4,2442.91
+Instagram,Campaign_3,6,fc9ea692-ba62-4aee-942d-19c0a629d332,Creatine,2025-06-30,7,6665.64
+Twitter,Campaign_5,5,e413961f-68c6-4d5e-8277-52fe61f68c6e,Whey Protein,2025-06-16,7,871.42
+Instagram,Campaign_2,3,bc52b34e-cdfa-4cc8-8805-ae3188a0edce,Biotin,2025-07-05,5,5552.69
+Twitter,Campaign_5,5,ebe7ef91-9092-4b69-8abc-847ec2537638,Biotin,2025-06-02,5,6405.96
+Instagram,Campaign_2,3,2bdb5720-63ea-407f-b436-498e68afe2b8,Biotin,2025-05-22,6,6406.74
+Instagram,Campaign_1,17,de6d2d7e-9f31-4acb-a362-dbc180245320,Biotin,2025-07-10,7,183.43
+YouTube,Campaign_4,11,25ee54ab-b319-4702-bb80-d98dd70da545,Multivitamin,2025-05-29,6,3003.79
+YouTube,Campaign_1,16,d4088ff7-d713-4061-bcc4-f772547e3918,Multivitamin,2025-06-08,2,2842.01
+Twitter,Campaign_5,18,f4e1680b-05a0-4c72-b22a-4fc63f2de8a8,Multivitamin,2025-06-07,8,9289.86
+Instagram,Campaign_4,6,af044a8d-d69d-4137-89a5-7cd1be28e8c5,Biotin,2025-07-15,3,2554.78
+Instagram,Campaign_3,15,6d5b7d50-1417-44f9-b7c1-44fb2b16ad04,Omega-3,2025-07-19,3,3618.14
+Instagram,Campaign_4,3,751f7e54-a0e7-4486-9ed9-c1241a895c62,Multivitamin,2025-06-05,5,118.25
+Instagram,Campaign_5,15,40a21015-0a40-4379-9a1a-b3579d6c84af,Biotin,2025-06-24,1,2265.47
+Instagram,Campaign_3,4,606375b8-bb93-4826-bcee-9d29ce4f1ca0,Omega-3,2025-05-24,10,1646.59
+YouTube,Campaign_1,16,094c0230-e3b4-4f81-aeb3-462ca032149d,Biotin,2025-07-09,4,5483.03
+Instagram,Campaign_3,13,abf0f4bd-4af0-46fe-9bbd-d1f416f14aad,Whey Protein,2025-06-05,2,2773.78
+YouTube,Campaign_1,2,5b1654ad-81e7-44de-bc74-0119754724dd,Creatine,2025-06-06,7,5308.41
+Instagram,Campaign_4,19,566ff3ec-679b-49e8-80c3-2da9bc49b58e,Biotin,2025-06-17,2,7490.85
+YouTube,Campaign_3,12,6480fdc0-f1c5-4f44-be08-3c1bcda6a326,Multivitamin,2025-05-23,10,944.07
+Instagram,Campaign_3,3,49c94aa5-e689-45e8-87c4-7eb84f8e3e01,Creatine,2025-07-14,9,3464.92
+Instagram,Campaign_2,17,c5dd967b-08f1-400b-ba32-22c4780afabf,Multivitamin,2025-07-12,2,4206.82
+Twitter,Campaign_3,10,ef208346-432f-4308-8d56-206d920c3de9,Omega-3,2025-05-25,3,5782.42
